@@ -1,5 +1,8 @@
 # ember-data-query-first
 
+[![Build Status](https://travis-ci.org/pangratz/ember-data-query-first.svg?branch=master)](https://travis-ci.org/pangratz/ember-data-query-first)
+[![Ember Observer Score](https://emberobserver.com/badges/ember-data-query-first.svg)](https://emberobserver.com/addons/ember-data-query-first)
+
 Conveniently get the first item of a `store.query()`.
 
 If you are querying your adapter and an array is returned, but you only need
