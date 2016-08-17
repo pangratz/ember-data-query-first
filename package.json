@@ -1,6 +1,6 @@
 {
   "name": "ember-data-query-first",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Conveniently get the first item of a `store.query()`",
   "directories": {
     "doc": "doc",
