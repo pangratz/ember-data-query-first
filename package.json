@@ -48,6 +48,7 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
+    "demoURL": "https://ember-twiddle.com/ecd61ce30431764c9dafea8b2491957a?fileTreeShown=false&numColumns=2&openFiles=routes.application.js%2Ctemplates.application.hbs",
     "after": [
       "ember-data"
     ]
