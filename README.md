@@ -40,7 +40,7 @@ Note on `store.queryRecord()`:
 
 `store.queryRecord()` should be used when a single record is requested and the
 `id` is not known beforehand. `store.queryRecord` is most likely used with a
-custom implementation of `urlForQueryRecord` ond the adapter:
+custom implementation of `urlForQueryRecord` on the adapter:
 
 ```js
 // app/adapters/user.js
